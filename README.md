@@ -3,6 +3,7 @@
 I'm passionate about technology, either at work or as a hobby I live it and I like to learn, share and discuss technology and programming, especially if accompanied by coffee.
 
 - 😄 Pronouns: He/Him
+- 💬 Ask me about Python
 - 🌱 I’m currently learning JAVA on the teaching platform [Digital Innovation One](https://web.dio.me/)
 - 🤔 I’m looking for an internship opportunity...
 
